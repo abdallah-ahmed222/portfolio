@@ -1,0 +1,12 @@
+@media (max-width:768px) {
+    .progress-text,
+    .section-two__container{
+        width: 100%;
+    }
+    .aside {
+        width: 40%;
+    }
+}
+/* @media (min-width:576px) and (max-width:) {
+    
+} */
